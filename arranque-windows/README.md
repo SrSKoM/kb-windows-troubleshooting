@@ -6,9 +6,9 @@ Este documento recopila soluciones a problemas comunes que impiden que Windows i
 
 ## 🗂 Índice de Errores de Arranque
 
-1. [Solucion al error winload.exe](arranque-windows/winload-error.md)
-2. [Acceso denegado en fixboot](arranque-windows/bootrec-fixboot-denied.md)
-3. [Borrar entradas duplicadas con bcdedit](arranque-windows/bcdedit-duplicado.md)
+1. [Solucion al error winload.exe](winload-error.md)
+2. [Acceso denegado en fixboot](bootrec-fixboot-denied.md)
+3. [Borrar entradas duplicadas con bcdedit](bcdedit-duplicado.md)
 
 ---
 
