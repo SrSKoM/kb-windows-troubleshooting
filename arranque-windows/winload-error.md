@@ -42,7 +42,7 @@ bootrec /fixboot   ← (Si dice "Acceso denegado", sigue los pasos especiales ab
 bootrec /scanos
 bootrec /rebuildbcd
 ```
-[Acceso denegado en fixboot](arranque-windows/bootrec-fixboot-denied.md)
+[Acceso denegado en fixboot](bootrec-fixboot-denied.md)
 
 4. Reinicia el equipo
 
